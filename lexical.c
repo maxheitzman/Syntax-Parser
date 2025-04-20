@@ -1,15 +1,13 @@
 /* 
 John Heitzman 
-R11626572
-Submission Date: March 27, 2025
 
 
 Lexical Analyzer (Project #1):
-¢ Tokenization: Learn how source code is scanned and divided into a sequence of tokens, such as
+Â¢ Tokenization: Learn how source code is scanned and divided into a sequence of tokens, such as
 Keywords, identifiers, operators, and literals.
-â Pattern Recognition: Implement algorithms to recognize and categorize different lexemes based on
+Ã¢ Pattern Recognition: Implement algorithms to recognize and categorize different lexemes based on
 predefined patterns and rules.
-¢ Error Handling: Understand how to detect and handle invalid tokens, enhancing the robustness of
+Â¢ Error Handling: Understand how to detect and handle invalid tokens, enhancing the robustness of
 the lexical analyzer.
 
 
