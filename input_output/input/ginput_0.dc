@@ -1,0 +1,13 @@
+f:=15;
+i:=11;
+
+read(n);
+
+if n = i:
+begin
+	i := i + f
+else: 
+	i := f - i
+end;
+
+print(i)

@@ -1,0 +1,25 @@
+f:=15;
+i:=11;
+
+read(n);
+
+if n = i:
+begin
+  ++i
+else:
+  --i
+end;
+
+t:=f%i;
+read(a);
+
+if t<n:
+begin
+  t:=i+f-f*a;
+  print(i)
+else:
+  t=i+(f-f)*a;
+  print(i)
+end;
+
+print(t)

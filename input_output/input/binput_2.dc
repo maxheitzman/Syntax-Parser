@@ -1,0 +1,40 @@
+f :=15;
+i:= 11;
+read(n);
+read(x);
+read(a);
+t:=(x+1)**n;
+
+if t<n:
+begin
+	t:=a+f
+else:
+	if t>n:
+	begin
+		t:=a-f
+	else:
+		if t<=n:
+		begin
+			t:=a*f
+		else:
+			if t>=n:
+			begin
+				t:=a/f
+			else:
+				if t!=n:
+				begin
+					t:=a**f
+				end
+			end
+		end
+	end
+end;
+
+if n = t:
+begin
+	++x
+else:
+	--x
+end;
+
+print(x)
