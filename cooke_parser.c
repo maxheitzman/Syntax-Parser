@@ -1,6 +1,4 @@
 // John Heitzman 
-// R11626572
-// CS3361 - Spring 2025
 // Project 2 - Syntax Parser for the Cooke Language
 //
 // This file handles the Syntax Parsing portion of the project.
