@@ -1,4 +1,4 @@
-// John Heitzman 
+// Max Heitzman 
 // Project 2 - Syntax Parser for the Cooke Language
 //
 // This file handles the Syntax Parsing portion of the project.
