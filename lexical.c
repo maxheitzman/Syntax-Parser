@@ -1,13 +1,13 @@
 /* 
-John Heitzman 
+Max Heitzman 
 
 
 Lexical Analyzer (Project #1):
-¢ Tokenization: Learn how source code is scanned and divided into a sequence of tokens, such as
+-Tokenization: Learn how source code is scanned and divided into a sequence of tokens, such as
 Keywords, identifiers, operators, and literals.
-â Pattern Recognition: Implement algorithms to recognize and categorize different lexemes based on
+-Pattern Recognition: Implement algorithms to recognize and categorize different lexemes based on
 predefined patterns and rules.
-¢ Error Handling: Understand how to detect and handle invalid tokens, enhancing the robustness of
+-Error Handling: Understand how to detect and handle invalid tokens, enhancing the robustness of
 the lexical analyzer.
 
 
